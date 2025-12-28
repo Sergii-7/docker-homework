@@ -51,5 +51,5 @@ docker login
 docker tag website-img sergiibeshliaga/website-img:1.0
 docker push sergiibeshliaga/website-img:latest
 ```
-#### 8. Go to Docker Hub and GitHub to share the links to your repository.
-- Docker Hub repository: https://hub.docker.com/repository/docker/sergiibeshliaga/website-img
+#### 8. Docker Hub repository:
+-  https://hub.docker.com/repository/docker/sergiibeshliaga/website-img
